@@ -5,7 +5,8 @@
  width="1200.000000pt" height="1200.000000pt" viewBox="0 0 1200.000000 1200.000000"
  preserveAspectRatio="xMidYMid meet">
 <script>
- alert('테스트')
+ alert('히힝')
+ history.back();
 </script>
 <g transform="translate(0.000000,1200.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
